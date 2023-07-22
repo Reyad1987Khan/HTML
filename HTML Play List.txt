@@ -1,0 +1,44 @@
+https://www.youtube.com/watch?v=LBOPUXnknao&list=PLerpoOYRrjUxLS2EZJZ7-Btf7DJ8WPvhJ&index=4
+
+V-4 : 	sup
+	sub
+	&nbsp;
+	<blockquote>
+	<small>
+	<abbr>
+	<q>
+	<address>
+	<cite>
+	<description> <dt></dt>  <dd></dd>
+	<iframe>
+	<span>
+	<entities>
+	
+	HTML complete course creates tables or table-II tag Part-10 (beginner to 	advanced tutorial) html 5.
+	https://www.youtube.com/watch?v=2sXIEGFqlnQ&list=PLerpoOYRrjUxLS2EZJZ7-	Btf7DJ8WPvhJ&index=10
+
+
+https://www.geeksforgeeks.org/html-align-attribute/
+
+The align Attribute in HTML is used to specify the alignment of text content of The Element. this attribute is used in all elements. The Align attribute can also be set using CSS property “text-align: ” or in <img> “vertical-align: “.
+
+Supported Tags: 
+
+<applet>
+<caption>
+<col>
+<colgroup>
+<hr>
+<iframe>
+<img>
+<legend>
+<table>
+<tbody>
+<td>
+<tfoot>
+<th>
+<thead>
+<tr>
+
+HTML complete course marquee tag all attributes Part-11 (beginner to advanced tutorial) html5.
+## start

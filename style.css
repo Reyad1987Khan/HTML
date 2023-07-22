@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#navigation {
+    display: flex;
+    background-image: linear-gradient(dodgerblue, rgb(3, 59, 116));
+    justify-content: space-between;
+    align-items: center;
+    /* position: relative; */
+}
+
+#navigation > ul > li {
+    list-style: none;
+    margin: 0px 5px;
+    margin-left: -4px;
+    padding: 16px 0px;
+}
+
+#navigation > ul > li > a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    border-right: 1px solid white;
+    padding: 15px 20px;
+    transition: 0.5s;
+}
+
+#navigation > ul >li:first-child > a{
+border-left: 1px solid white;
+}
+
+.logo > h1 {
+    color: white;
+    margin-left: 20px;
+}
+.logo-color {
+    color: darkorange;
+    font-size: 40px;
+}
+
+#navigation > ul {
+   display: flex;
+   margin-right: 5px;
+}
+
+#navigation > ul >li:hover > a{
+    background-color: rgb(163, 99, 20);
+}
+
+/* Dropdown manu start */
+
+.dropdownManu {
+    opacity: 0;
+    visibility: hidden;
+    background-color: dodgerblue;
+    text-align: center;
+    margin-top: 15px;
+    width: 190px;
+    position: absolute;
+    transition: 0.5s;
+    transform: scaleY(0);
+    transform-origin: top center;
+    box-shadow: 10px 10px 8px black;
+}
+
+.dropdownManu > li{
+    list-style: none;
+    padding: 10px 0px;
+    border-bottom: 1px solid greenyellow;
+}
+
+.dropdownManu > li:hover{
+   background-color: darkgoldenrod;
+}
+
+.dropdownManu > li > a{
+    text-decoration: none;
+    color: white;  
+}
+
+.dropdownManu > li:first-child{
+    border-top: 1px solid white; 
+}
+
+#navigation > ul >li:hover > .dropdownManu{
+    opacity: 1;
+    visibility: visible;
+    transform: scaleY(1);
+}
+
+/* hero area code start here */
+
+#main-Header {
+    text-align: center;
+    background-image: url('');
+    height: 90vh;
+}
+
+.header-Container {
+    padding-top: 100px;
+}
+
+
